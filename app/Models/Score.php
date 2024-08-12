@@ -16,3 +16,4 @@ class Score extends Model
         'nama_sekolah', 'total_soal', 'urutan',
     ];
 }
+
